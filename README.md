@@ -13,6 +13,7 @@
 - Boolean Operations in 10T Differential Read-Decoupled SRAM
 - 8-bit Successive Approximation ADC
 - Genome Sequencing Acceleration
+- Active Noise Cancellation Design on Hardware
 <!--
 **seanfan34/seanfan34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
