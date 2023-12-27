@@ -5,7 +5,9 @@
 - EECS 427 VLSI Design I
 - EECS 413 Monolithic Amplifier Circuits
 - EECS 470 Computer Architecture
+- EECS 471 Applied Parallel Programming with GPUs
 - EECS 570 Parallel Computer Architecture
+- EECS 598 VLSI for Wireless Communication and Machine Learning
 ## 😄Project & Research
 - 3-Way Superscalar Out-of-Order Processor in R10K Architecture 
 - Boolean Operations in 10T Differential Read-Decoupled SRAM
